@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a225b606-eeda-4310-a59d-5286ee60d9db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/_07stack_queue/_1TwoZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07stack_queue/_2TwoThreeTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_06zerosix/OneFourOne3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_array_linkedlist/_3OneFourOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_06zerosix/OneFourTwo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_array_linkedlist/_4OneFourTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_06zerosix/TwoFive5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_array_linkedlist/_5TwoFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_06zerosix/TwoFour2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_array_linkedlist/_2TwoFour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_06zerosix/TwoZeroSix1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_array_linkedlist/_1TwoZeroSix.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,13 +48,42 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_06_array_linkedlist/_5TwoFive.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="6" column="61" lean-forward="true" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_07stack_queue/_1TwoZero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_07stack_queue/_2TwoThreeTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#983#984#0" expanded="true" />
+                <element signature="e#1041#1042#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,6 +114,8 @@
         <option value="$PROJECT_DIR$/src/_zerosix/OneFourOne3.java" />
         <option value="$PROJECT_DIR$/src/_zerosix/TwoFour2.java" />
         <option value="$PROJECT_DIR$/src/_zerosix/TwoZeroSix1.java" />
+        <option value="$PROJECT_DIR$/src/_07stack_queue/_1TwoZero.java" />
+        <option value="$PROJECT_DIR$/src/_07stack_queue/_2TwoThreeTwo.java" />
       </list>
     </option>
   </component>
@@ -103,7 +131,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -129,6 +157,12 @@
               <item name="algorithmic_interview_clearance" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithmic_interview_clearance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmic_interview_clearance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmic_interview_clearance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_07stack_queue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,27 +248,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559353234953</updated>
-      <workItem from="1559353237229" duration="9167000" />
+      <workItem from="1559353237229" duration="11706000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9167000" />
+    <option name="totallyTimeSpent" value="11706000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.4356103" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.29899216" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -317,6 +352,31 @@
           <caret line="6" column="61" lean-forward="true" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_07stack_queue/_1TwoZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_07stack_queue/_2TwoThreeTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#983#984#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
           </folding>
         </state>
       </provider>
