@@ -1,4 +1,4 @@
-package _07stack_queue;
+package _07_09_stack_queue;
 
 import java.util.HashMap;
 import java.util.Stack;
@@ -6,10 +6,10 @@ import java.util.Stack;
 /**
  * https://leetcode-cn.com/problems/valid-parentheses/
  */
-public class _1TwoZero {
+public class _08TwoZero {
     private HashMap<Character, Character> mappings;
 
-    public _1TwoZero() {
+    public _08TwoZero() {
         this.mappings = new HashMap<>();
         this.mappings.put(')', '(');
         this.mappings.put(']', '[');

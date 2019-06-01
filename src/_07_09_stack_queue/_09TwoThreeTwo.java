@@ -1,15 +1,15 @@
-package _07stack_queue;
+package _07_09_stack_queue;
 
 import java.util.Stack;
 
 /**
  * https://leetcode-cn.com/problems/implement-queue-using-stacks/
  */
-public class _2TwoThreeTwo {
+public class _09TwoThreeTwo {
     Stack<Integer> input;
     Stack<Integer> output;
     /** Initialize your data structure here. */
-    public _2TwoThreeTwo() {
+    public _09TwoThreeTwo() {
         input = new Stack<>();
         output = new Stack<>();
     }
