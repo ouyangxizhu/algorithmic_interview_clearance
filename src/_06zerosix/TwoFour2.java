@@ -18,9 +18,21 @@ public class TwoFour2 {
             pre = head;
             head.next = tmp;
             head = tmp;
-
         }
         return newHead.next;
+    }
+
+    /**
+     * 递归
+     * @param head
+     * @return
+     */
+    public ListNode swapPairs1(ListNode head) {
+        if (head == null || head.next == null) return head;
+        ListNode tmp = head.next;
+        head.next = swapPairs(head.next.next);
+        tmp.next = head;
+        return tmp;
 
     }
 

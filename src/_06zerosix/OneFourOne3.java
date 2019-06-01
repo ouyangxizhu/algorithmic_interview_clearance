@@ -3,7 +3,6 @@ package _zerosix;
 import util.ListNode;
 
 import java.util.HashSet;
-import java.util.ServiceConfigurationError;
 
 /**
  * https://leetcode-cn.com/problems/linked-list-cycle/
