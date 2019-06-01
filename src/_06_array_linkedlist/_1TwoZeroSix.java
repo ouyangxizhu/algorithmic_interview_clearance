@@ -1,4 +1,4 @@
-package _zerosix;
+package _06_array_linkedlist;
 
 import util.ListNode;
 
@@ -7,7 +7,7 @@ import util.ListNode;
  * 反转链表
  */
 
-public class TwoZeroSix1 {
+public class _1TwoZeroSix {
     /**
      * 方法一：迭代
      *

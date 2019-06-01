@@ -1,13 +1,11 @@
-package _zerosix;
+package _06_array_linkedlist;
 
 import util.ListNode;
-
-import java.util.HashSet;
 
 /**
  * https://leetcode-cn.com/problems/linked-list-cycle-ii/
  */
-public class OneFourTwo4 {
+public class _4OneFourTwo {
     /**
      * 快慢指针
      * @param head

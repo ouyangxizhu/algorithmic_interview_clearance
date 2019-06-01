@@ -1,11 +1,11 @@
-package _zerosix;
+package _06_array_linkedlist;
 
 import util.ListNode;
 
 /**
  * https://leetcode-cn.com/problems/swap-nodes-in-pairs/
  */
-public class TwoFour2 {
+public class _2TwoFour {
     public ListNode swapPairs(ListNode head) {
         if (head == null || head.next == null) return head;
         ListNode newHead = new ListNode(0);

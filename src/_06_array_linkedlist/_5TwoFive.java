@@ -1,4 +1,4 @@
-package _zerosix;
+package _06_array_linkedlist;
 
 import util.ListNode;
 import java.util.Stack;
@@ -7,7 +7,7 @@ import java.util.Stack;
  * https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
  * k个一组反转列表
  */
-public class TwoFive5 {
+public class _5TwoFive {
     /**
      * 思路一：
      *

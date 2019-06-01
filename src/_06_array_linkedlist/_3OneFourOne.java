@@ -1,4 +1,4 @@
-package _zerosix;
+package _06_array_linkedlist;
 
 import util.ListNode;
 
@@ -7,7 +7,7 @@ import java.util.HashSet;
 /**
  * https://leetcode-cn.com/problems/linked-list-cycle/
  */
-public class OneFourOne3 {
+public class _3OneFourOne {
     /**
      * 快慢指针 空间复杂度O(1),时间复杂度O(N)
      * @param head
