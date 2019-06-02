@@ -1,4 +1,4 @@
-package _34_35_bineary_search;
+package _34_35_binary_search;
 
 /**
  * https://leetcode-cn.com/problems/sqrtx/
@@ -26,6 +26,8 @@ public class _35_SixNine {
 
     /**
      * 二分
+     *
+     * 还可以从0开始递增一个一个算（暴力）
      * @param x
      * @return
      */

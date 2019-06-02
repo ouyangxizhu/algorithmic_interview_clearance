@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a225b606-eeda-4310-a59d-5286ee60d9db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_36_38_trie/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_36_38_trie/_212_TwoOneTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_34_35_binary_search/_35_SixNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_34_35_binary_search/_35_SixNine.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,18 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_26_30_dfs_bfs/_28_OneZeroTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="70" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_26_30_dfs_bfs/_29_OneOneOne.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/_31_33_cut/_32_FiveOne.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="45" />
+              <caret line="7" column="45" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/src/_31_33_cut/_33_ThreeSix.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -87,16 +77,37 @@
         <entry file="file://$PROJECT_DIR$/src/_31_33_cut/_33_ThreeSeven.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="395">
-              <caret line="105" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="105" selection-end-column="5" />
+              <caret line="105" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="105" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_34_35_binary_search/_35_SixNine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_36_38_trie/Trie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/_36_38_trie/_212_TwoOneTwo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="108">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,7 +116,7 @@
         <entry file="jar://C:/Java/JDK/src.zip!/java/util/Objects.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="200" column="19" lean-forward="true" selection-start-line="200" selection-start-column="19" selection-end-line="200" selection-end-column="19" />
+              <caret line="200" column="19" selection-start-line="200" selection-start-column="19" selection-end-line="200" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -166,6 +177,11 @@
         <option value="$PROJECT_DIR$/src/_31_33_cut/_32_FiveTwo.java" />
         <option value="$PROJECT_DIR$/src/_31_33_cut/_33_ThreeSeven.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/_34_35_bineary_search/_35_SixNine.java" />
+        <option value="$PROJECT_DIR$/src/_34_35_binary_search/_35_SixNine.java" />
+        <option value="$PROJECT_DIR$/src/_36_38_trie/_37_TwoZeroEight.java" />
+        <option value="$PROJECT_DIR$/src/_36_38_trie/Trie.java" />
+        <option value="$PROJECT_DIR$/src/_36_38_trie/_212_TwoOneTwo.java" />
       </list>
     </option>
   </component>
@@ -207,6 +223,12 @@
               <item name="algorithmic_interview_clearance" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithmic_interview_clearance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmic_interview_clearance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmic_interview_clearance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_36_38_trie" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -325,12 +347,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559353234953</updated>
-      <workItem from="1559353237229" duration="44435000" />
+      <workItem from="1559353237229" duration="49338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44435000" />
+    <option name="totallyTimeSpent" value="49338000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -698,7 +720,7 @@
     <entry file="jar://C:/Java/JDK/src.zip!/java/util/Objects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="200" column="19" lean-forward="true" selection-start-line="200" selection-start-column="19" selection-end-line="200" selection-end-column="19" />
+          <caret line="200" column="19" selection-start-line="200" selection-start-column="19" selection-end-line="200" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -718,7 +740,7 @@
     <entry file="file://$PROJECT_DIR$/src/_31_33_cut/_32_FiveOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="45" />
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -728,7 +750,7 @@
     <entry file="file://$PROJECT_DIR$/src/_31_33_cut/_33_ThreeSix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -739,17 +761,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_31_33_cut/_33_ThreeSeven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="105" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="105" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_31_33_cut/_33_ThreeSeven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="105" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="105" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_34_35_binary_search/_35_SixNine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_36_38_trie/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_36_38_trie/_212_TwoOneTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
