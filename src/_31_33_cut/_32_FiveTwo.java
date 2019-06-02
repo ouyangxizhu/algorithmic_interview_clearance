@@ -1,9 +1,48 @@
 package _31_33_cut;
 
 /**
- * https://leetcode-cn.com/problems/n-queens-ii/solution/nhuang-hou-ii-by-leetcode/
+ * https://leetcode-cn.com/problems/n-queens-ii/
  */
 public class _32_FiveTwo {
+    /**
+     * 在建立算法之前，我们来考虑两个有用的细节。
+     *
+     * 一行只可能有一个皇后且一列也只可能有一个皇后。
+     * 这意味着没有必要再棋盘上考虑所有的方格。只需要按列循环即可。
+     *
+     * 对于所有的主对角线有 行号 + 列号 = 常数，对于所有的次对角线有 行号 - 列号 = 常数.
+     * 这可以让我们标记已经在攻击范围下的对角线并且检查一个方格 (行号, 列号) 是否处在攻击位置。
+     *
+     *
+     * 现在已经可以写回溯函数 backtrack(row = 0).
+     *
+     * 从第一个 row = 0 开始.
+     *
+     * 循环列并且试图在每个 column 中放置皇后.
+     *
+     * 如果方格 (row, column) 不在攻击范围内
+     *
+     * 在 (row, column) 方格上放置皇后。
+     * 排除对应行，列和两个对角线的位置。
+     * If 所有的行被考虑过，row == N
+     * 意味着我们找到了一个解
+     * Else
+     * 继续考虑接下来的皇后放置 backtrack(row + 1).
+     * 回溯：将在 (row, column) 方格的皇后移除.
+     * 下面是上述算法的一个直接的实现。
+     *
+     *
+     * 时间复杂度：\mathcalO(N!). 放置第 1 个皇后有 N 种可能的方法，放置两个皇后的方法不超过 N (N - 2) ，放置 3 个皇后的方法不超过 N(N - 2)(N - 4) ，以此类推。总体上，时间复杂度为 \mathcal{O}(N!)O(N!) .
+     * 空间复杂度：\mathcalO(N) . 需要保存对角线和行的信息。
+     * @param row
+     * @param col
+     * @param n
+     * @param rows
+     * @param hills
+     * @param dales
+     * @return
+     */
+
     public boolean is_not_under_attack(int row, int col, int n,
                                        int [] rows,
                                        int [] hills,
