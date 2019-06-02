@@ -4,6 +4,11 @@ package _24_25_greedy;
  * https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/
  */
 public class _25_OneTwoTwo {
+    /**
+     * 还有一种算法是可以dfs，即递归每天买入或者卖出
+     * @param prices
+     * @return
+     */
     public int maxProfit(int[] prices) {
         if (prices.length == 1) {
             return 0;
