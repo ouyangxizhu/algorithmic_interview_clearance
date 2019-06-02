@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a225b606-eeda-4310-a59d-5286ee60d9db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_31_33_cut/_32_FiveOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_31_33_cut/_32_FiveTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_31_33_cut/_33_ThreeSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmic_interview_clearance/_26_30_dfs_bfs/_30_TwoTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmic_interview_clearance/_26_30_dfs_bfs/_30_TwoTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_26_30_dfs_bfs/_30_TwoTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_26_30_dfs_bfs/_30_TwoTwo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_31_33_cut/_33_ThreeSix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
+            <state relative-caret-position="270">
               <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
             </state>
           </provider>
@@ -83,6 +79,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-577">
               <caret line="64" column="32" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_31_33_cut/_33_ThreeSeven.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="105" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="105" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -150,6 +164,8 @@
         <option value="$PROJECT_DIR$/src/_31_33_cut/_32_FiveOne.java" />
         <option value="$PROJECT_DIR$/src/_31_33_cut/_33_ThreeSix.java" />
         <option value="$PROJECT_DIR$/src/_31_33_cut/_32_FiveTwo.java" />
+        <option value="$PROJECT_DIR$/src/_31_33_cut/_33_ThreeSeven.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -191,12 +207,6 @@
               <item name="algorithmic_interview_clearance" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithmic_interview_clearance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithmic_interview_clearance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithmic_interview_clearance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_31_33_cut" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -315,12 +325,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559353234953</updated>
-      <workItem from="1559353237229" duration="43867000" />
+      <workItem from="1559353237229" duration="44435000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43867000" />
+    <option name="totallyTimeSpent" value="44435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -333,9 +343,9 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.10955414" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="1" sideWeight="0.8904459" side_tool="true" weight="0.2497332" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.2575588" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.4994664" visible="true" weight="0.2575588" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053364" side_tool="true" visible="true" weight="0.2575588" />
       <window_info anchor="bottom" id="Problems" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -715,6 +725,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_31_33_cut/_33_ThreeSix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_31_33_cut/_32_FiveTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-577">
@@ -722,10 +739,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_31_33_cut/_33_ThreeSix.java">
+    <entry file="file://$PROJECT_DIR$/src/_31_33_cut/_33_ThreeSeven.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        <state relative-caret-position="395">
+          <caret line="105" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="105" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
