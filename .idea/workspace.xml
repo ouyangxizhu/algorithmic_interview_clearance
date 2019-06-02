@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a225b606-eeda-4310-a59d-5286ee60d9db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_26_30_dfs_bfs/_28_OneZeroTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_26_30_dfs_bfs/_29_OneOneOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_26_30_dfs_bfs/_29_OneZeroFour.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmic_interview_clearance/_24_25_greedy/_25_OneTwoTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmic_interview_clearance/_24_25_greedy/_25_OneTwoTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_24_25_greedy/_25_OneTwoTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_24_25_greedy/_25_OneTwoTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_26_30_dfs_bfs/_30_TwoTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_26_30_dfs_bfs/_30_TwoTwo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_26_30_dfs_bfs/_29_OneZeroFour.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            <state relative-caret-position="297">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
               <folding>
                 <element signature="e#252#253#0" expanded="true" />
                 <element signature="e#344#345#0" expanded="true" />
@@ -52,10 +48,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_26_30_dfs_bfs/_30_TwoTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_26_30_dfs_bfs/_29_OneOneOne.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -117,8 +125,9 @@
         <option value="$PROJECT_DIR$/src/_20_23_Recursion_Divide/_23_OneSixNine.java" />
         <option value="$PROJECT_DIR$/src/_24_25_greedy/_25_OneTwoTwo.java" />
         <option value="$PROJECT_DIR$/src/_26_30_dfs_bfs/_28_OneZeroTwo.java" />
-        <option value="$PROJECT_DIR$/src/_26_30_dfs_bfs/_29_OneZeroFour.java" />
         <option value="$PROJECT_DIR$/src/_26_30_dfs_bfs/_29_OneOneOne.java" />
+        <option value="$PROJECT_DIR$/src/_26_30_dfs_bfs/_29_OneZeroFour.java" />
+        <option value="$PROJECT_DIR$/src/_26_30_dfs_bfs/_30_TwoTwo.java" />
       </list>
     </option>
   </component>
@@ -290,12 +299,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559353234953</updated>
-      <workItem from="1559353237229" duration="39241000" />
+      <workItem from="1559353237229" duration="39723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39241000" />
+    <option name="totallyTimeSpent" value="39723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -308,7 +317,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.10955414" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="1" sideWeight="0.8904459" side_tool="true" weight="0.2497332" />
-      <window_info anchor="bottom" id="Terminal" weight="0.2575588" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.2575588" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Problems" />
@@ -634,10 +643,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_26_30_dfs_bfs/_29_OneOneOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_26_30_dfs_bfs/_29_OneZeroFour.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="297">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding>
             <element signature="e#252#253#0" expanded="true" />
             <element signature="e#344#345#0" expanded="true" />
@@ -645,10 +661,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_26_30_dfs_bfs/_29_OneOneOne.java">
+    <entry file="file://$PROJECT_DIR$/src/_26_30_dfs_bfs/_30_TwoTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="422">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
