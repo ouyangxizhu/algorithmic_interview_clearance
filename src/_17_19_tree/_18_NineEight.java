@@ -6,6 +6,9 @@ import util.TreeNode;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * https://leetcode-cn.com/problems/validate-binary-search-tree/
+ */
 public class _18_NineEight {
     /**
      * 中序遍历之后比较

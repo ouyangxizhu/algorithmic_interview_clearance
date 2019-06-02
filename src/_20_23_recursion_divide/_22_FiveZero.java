@@ -1,5 +1,8 @@
-package _20_23_Recursion_Divide;
+package _20_23_recursion_divide;
 
+/**
+ * https://leetcode-cn.com/problems/powx-n/
+ */
 public class _22_FiveZero {
     /**
      * 递归

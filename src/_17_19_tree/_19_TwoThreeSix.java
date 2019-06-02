@@ -2,6 +2,9 @@ package _17_19_tree;
 
 import util.TreeNode;
 
+/**
+ * https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
+ */
 public class _19_TwoThreeSix {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         // 递归的出口

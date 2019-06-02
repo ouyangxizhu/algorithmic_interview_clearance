@@ -1,5 +1,8 @@
-package _20_23_Recursion_Divide;
+package _20_23_recursion_divide;
 
+/**
+ * https://leetcode-cn.com/problems/majority-element/
+ */
 public class _23_OneSixNine {
     /**
      * 1. 用hashmap存储数字和次数，只有遍历，求出最大的
