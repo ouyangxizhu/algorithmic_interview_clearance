@@ -14,7 +14,8 @@ public class _30_TwoTwo {
     }
 
     public static void generateOneByOne(String sublist, List<String> list, int left, int right) {
-        if (left > right) {
+        if (left == 0 && right == 0) {
+            list.add(sublist);
             return;
         }
 
@@ -22,12 +23,9 @@ public class _30_TwoTwo {
             generateOneByOne(sublist + "(", list, left - 1, right);
         }
 
-        if (right > 0) {
+        if (right > left) {
             generateOneByOne(sublist + ")", list, left, right - 1);
         }
 
-        if (left == 0 && right == 0) {
-            list.add(sublist);
-        }
     }
 }
