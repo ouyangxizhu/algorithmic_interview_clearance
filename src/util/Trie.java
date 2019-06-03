@@ -1,4 +1,4 @@
-package _36_38_trie;
+package util;
 
 /**
  * 208  https://leetcode-cn.com/problems/implement-trie-prefix-tree/

@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a225b606-eeda-4310-a59d-5286ee60d9db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_43_51_dynamic_programming/FIb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_43_51_dynamic_programming/_44_SixThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_43_51_dynamic_programming/_45_SevenZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_43_51_dynamic_programming/_46_OneTwoZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_43_51_dynamic_programming/_47_OneFiveTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_OneEightEight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_OneTwoOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_OneTwoThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_OneTwotwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_SevenOneFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_ThreeZeroNine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_43_51_dynamic_programming/_49_ThreeZeroZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_43_51_dynamic_programming/_50_ThreeTwoTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_52_54_Find_union/_53_54_FiveFourSeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_52_54_Find_union/_53_54_TwoZeroZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_55_56_LRU/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/QuickUnionUF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Union_Find_Set.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_36_38_trie/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/Trie.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,10 +26,68 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_49_ThreeZeroZero.java">
+        <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_OneTwoOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+            <state relative-caret-position="216">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_OneTwoThree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_OneTwotwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_51_SevenTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/util/QuickUnionUF.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+              <folding>
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_52_54_Find_union/_53_54_TwoZeroZero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_55_56_LRU/LRUCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,11 +95,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_50_ThreeTwoTwo.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_52_54_Find_union/_53_54_FiveFourSeven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="48" />
+            <state relative-caret-position="378">
+              <caret line="56" column="30" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="56" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/util/Union_Find_Set.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1107">
+              <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+              <folding>
+                <element signature="e#1179#1180#0" expanded="true" />
+                <element signature="e#1220#1221#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/util/Trie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -68,14 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_07stack_queue/_08TwoZero.java" />
-        <option value="$PROJECT_DIR$/src/_07_09stack_queue/_08TwoZero.java" />
-        <option value="$PROJECT_DIR$/src/_07_09_stack_queue/_08TwoZero.java" />
-        <option value="$PROJECT_DIR$/src/_10_12PriorityQueue/_11SevenZeroThree.java" />
-        <option value="$PROJECT_DIR$/src/_10_12PriorityQueue/_12TwoThreeNine.java" />
-        <option value="$PROJECT_DIR$/src/_10_12_PriorityQueue/_12TwoThreeNine.java" />
-        <option value="$PROJECT_DIR$/src/_13_16_hash/_14TwoFourTwo.java" />
-        <option value="$PROJECT_DIR$/src/_13_16_hash/_15_One.java" />
         <option value="$PROJECT_DIR$/src/_13_16_hash/_16OneFive.java" />
         <option value="$PROJECT_DIR$/src/_13_16_hash/_16_OneFive.java" />
         <option value="$PROJECT_DIR$/src/util/TreeNode.java" />
@@ -119,6 +187,14 @@
         <option value="$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_SevenOneFour.java" />
         <option value="$PROJECT_DIR$/src/_43_51_dynamic_programming/_49_ThreeZeroZero.java" />
         <option value="$PROJECT_DIR$/src/_43_51_dynamic_programming/_50_ThreeTwoTwo.java" />
+        <option value="$PROJECT_DIR$/src/_43_51_dynamic_programming/_51_SevenTwo.java" />
+        <option value="$PROJECT_DIR$/src/util/QuickUnionUF.java" />
+        <option value="$PROJECT_DIR$/src/_52_54_Find_union/_53_TwoZeroZero.java" />
+        <option value="$PROJECT_DIR$/src/util/Union_Find_Set.java" />
+        <option value="$PROJECT_DIR$/src/_52_54_Find_union/_53_54_FiveFourSeven.java" />
+        <option value="$PROJECT_DIR$/src/_55_56_LRU/_56_LRU.java" />
+        <option value="$PROJECT_DIR$/src/_55_56_LRU/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/_52_54_Find_union/_53_54_TwoZeroZero.java" />
       </list>
     </option>
   </component>
@@ -165,7 +241,13 @@
               <item name="algorithmic_interview_clearance" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithmic_interview_clearance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_43_51_dynamic_programming" type="462c0819:PsiDirectoryNode" />
+              <item name="_52_54_Find_union" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmic_interview_clearance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmic_interview_clearance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,7 +264,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -314,12 +396,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559353234953</updated>
-      <workItem from="1559353237229" duration="67871000" />
+      <workItem from="1559353237229" duration="76143000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67871000" />
+    <option name="totallyTimeSpent" value="76143000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -332,9 +414,9 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.10955414" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="1" sideWeight="0.8904459" side_tool="true" weight="0.2497332" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49893278" weight="0.2575588" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49839914" visible="true" weight="0.2575588" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5010672" side_tool="true" visible="true" weight="0.10414334" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50160086" side_tool="true" visible="true" weight="0.2575588" />
       <window_info anchor="bottom" id="Problems" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -342,7 +424,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893278" weight="0.31466964" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893278" visible="true" weight="0.10414334" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893278" weight="0.3538634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -374,109 +456,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_07_09_stack_queue/_09TwoThreeTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-513">
-          <caret line="5" column="65" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_10_12_PriorityQueue/_11SevenZeroThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="68" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/JDK/src.zip!/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="191" column="3" lean-forward="true" selection-start-line="191" selection-start-column="3" selection-end-line="191" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.Deque">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.Deque</OriginalElement>
-          <nodes>
-            <node x="0.0" y="87.0">java.util.Collection</node>
-            <node x="22.5" y="174.0">java.util.Queue</node>
-            <node x="22.5" y="261.0">java.util.Deque</node>
-            <node x="9.0" y="0.0">java.lang.Iterable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.Collection" target="java.lang.Iterable">
-              <point x="0.0" y="-18.5" />
-              <point x="0.0" y="18.5" />
-            </edge>
-            <edge source="java.util.Deque" target="java.util.Queue">
-              <point x="0.0" y="-18.5" />
-              <point x="0.0" y="18.5" />
-            </edge>
-            <edge source="java.util.Queue" target="java.util.Collection">
-              <point x="0.0" y="-18.5" />
-              <point x="0.0" y="18.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-275.5" y="102.5" />
-          <SelectedNodes>
-            <node>java.util.Deque</node>
-            <node>java.lang.Iterable</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.LinkedList">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.LinkedList</OriginalElement>
-          <nodes>
-            <node x="" y="">java.lang.Cloneable</node>
-            <node x="" y="">java.util.AbstractCollection</node>
-            <node x="" y="">java.util.List</node>
-            <node x="" y="">java.util.Collection</node>
-            <node x="" y="">java.util.AbstractList</node>
-            <node x="" y="">java.util.Queue</node>
-            <node x="" y="">java.util.Deque</node>
-            <node x="" y="">java.util.LinkedList</node>
-            <node x="" y="">java.util.AbstractSequentialList</node>
-            <node x="" y="">java.lang.Iterable</node>
-            <node x="" y="">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="301.0" y="236.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/JDK/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="104" column="7" lean-forward="true" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_10_12_PriorityQueue/_12TwoThreeNine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_13_16_hash/_14_TwoFourTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -665,13 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_36_38_trie/Trie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_36_38_trie/_212_TwoOneTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -749,52 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_45_SevenZero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-          <folding>
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_44_SixThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_46_OneTwoZero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_47_OneFiveTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="41" column="40" lean-forward="true" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_OneTwotwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_OneTwoThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_OneEightEight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="557">
@@ -809,34 +735,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_ThreeZeroNine.java">
+    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_50_ThreeTwoTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="135">
+          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_OneTwoOne.java">
+    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_ThreeZeroNine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="81">
+          <caret line="3" column="82" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="82" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_49_ThreeZeroZero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+        <state relative-caret-position="189">
+          <caret line="7" column="67" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_50_ThreeTwoTwo.java">
+    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_44_SixThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_45_SevenZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_46_OneTwoZero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="48" />
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_47_OneFiveTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_OneTwoOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_OneTwoThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_48_OneTwotwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_52_54_Find_union.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_43_51_dynamic_programming/_51_SevenTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/QuickUnionUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_55_56_LRU/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_52_54_Find_union/_53_54_FiveFourSeven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="56" column="30" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="56" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/Union_Find_Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+          <folding>
+            <element signature="e#1179#1180#0" expanded="true" />
+            <element signature="e#1220#1221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_52_54_Find_union/_53_54_TwoZeroZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
         </state>
       </provider>
     </entry>
